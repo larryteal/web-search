@@ -1,7 +1,7 @@
 
 # Web Search API
 
-## API
+## APIs
 
 ### Web Search
 
@@ -69,3 +69,11 @@ GET https://web-search-cat.lessx.xyz/news?q=<query>&max=<10|20>
   "error": "Missing query parameter: q"
 }
 ```
+
+## MCP/SKILL
+> [!TIP]
+> Feel free to use [mcp-workspace](https://github.com/larryteal/mcp-workspace) to convert APIs to MCP, or simply let AI help you write a SKILL.
+
+
+
+
